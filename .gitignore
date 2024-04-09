@@ -1,0 +1,4 @@
+
+# Ignore all files inside the build directory but not the directory itself
+/build/*
+!./build
